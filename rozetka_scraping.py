@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Stanislav Filin'
-
 from bs4 import BeautifulSoup
 import requests
 import sqlite3
